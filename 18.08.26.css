@@ -1,0 +1,93 @@
+header{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color: black;
+}
+.one div{
+display: flex;
+justify-content: space-evenly;
+    align-items: center;
+}
+.two div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.one div img{
+    height: 300px;
+    width: 350px;
+}
+.two div img{
+    height: 300px;
+    width: 300px;
+}
+.two div p{
+    width: 500px;
+    font-size: 20px;
+}
+.one div p{
+    width: 500px;
+    font-size: 20px;
+}
+.aple {
+    text-align: center;
+    font-size: 30px;
+}
+.apple div img {
+    height:300px ;
+    width:300px ;
+}
+.apple{
+    display: flex;
+}
+.apple div{
+    width: 500px;
+    text-align: center;
+}
+body{
+    background-color: rgb(228, 228, 228);
+}
+header {
+    background-color: rgb(50, 50, 154);
+}
+.samsung{
+    display: flex;
+    justify-content: space-around;
+}
+.samsung div img{
+    width: 300px;
+    height: 300px;
+}
+.samsung div{
+    width: 500px;
+}
+.samsung div p{
+    height: 140px;
+}
+.xiaomi1 img{
+    width: 450px;
+    height: 300px;
+} 
+.xiaomi2 img{
+    width: 450px;
+    height: 300px;
+}
+.xiaomi{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.xiaomi2{
+    text-align: center;
+}
+.xiaomi1 p{
+    width: 450px;
+}
+.xiaomi2{
+    width: 450px;
+}
+.xiaomi1 div{
+    text-align: center;
+}
